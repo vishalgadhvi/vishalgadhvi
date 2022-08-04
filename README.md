@@ -2,7 +2,7 @@
 
 I'm Vishalsinh Gadhvi a Full Stack Web Developer and Master's student at San Jose State University.
 
-- 🔭 I’m currently working as a Software Design Engineering Intern at Hewlett Packard Enterprise(HPE)<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Hewlett_Packard_Enterprise_logo.svg" alt="Python" height="20" style="vertical-align:top; margin:0px">
+- 🔭 I’m currently working as a Software Design Engineering Intern at Hewlett Packard Enterprise(HPE)<img src="https://images.g2crowd.com/uploads/product/hd_favicon/1473784146/hpe-data-protector.svg" alt="Python" height="20" style="vertical-align:top; margin:0px">
 - 🌱 I’m looking for part-time/full-time opportunities in Software Engineering.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💻 Most used line of code git commit -m "Full Commit"
